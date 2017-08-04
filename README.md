@@ -3,3 +3,4 @@
 ![1](https://github.com/shibiao/Xcode-toolbar/blob/master/QQ20170804-110327.png)
 ![2](https://github.com/shibiao/Xcode-toolbar/blob/master/QQ20170804-110339.png)
 ![3](https://github.com/shibiao/Xcode-toolbar/blob/master/QQ20170804-110350.png)
+![4](https://github.com/shibiao/Xcode-toolbar/blob/master/QQ20170804-110704.png)
